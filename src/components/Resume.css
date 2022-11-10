@@ -1,0 +1,19 @@
+h1 {
+  display: inline;
+  margin: 1rem;
+}
+span {
+  font-weight: bold;
+}
+li::marker {
+  color: #e94560;
+  font-size: 2em;
+}
+.blue-label {
+  background-color: #0f3460;
+  width: max-content;
+}
+.zoom-on-hover:hover {
+  transition: transform 0.8s;
+  transform: scale(1.15);
+}

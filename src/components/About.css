@@ -1,0 +1,10 @@
+.butto {
+  margin: 20% 35%;
+  padding: 2%;
+  align-items: center;
+  background-color: rgb(143, 255, 156);
+  color: rgb(255, 0, 0);
+  font-weight: bold;
+  border-radius: 1rem;
+}
+ 
