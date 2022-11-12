@@ -64,7 +64,7 @@ function Resume() {
               <h4 className="ff-jose ls-2">PROFILE</h4>
               <div>
                 <a
-                  href="https://www.codechef.com/users/gurudatta1455"
+                  href="https://github.com/datta1054"
                   target="/blank"
                   className="text-white text-decoration-none mx-2"
                 >
