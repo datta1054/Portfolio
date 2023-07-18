@@ -85,7 +85,7 @@ function Resume() {
                   </h1>
                   &#160; &#160; &#160; <span>Codeforces : </span>
                 </a>
-                <span>Solved 100+ problems</span>
+                <span>Solved 150+ problems</span>
               </div>
 
               <div>
@@ -99,7 +99,7 @@ function Resume() {
                   </h1>
                   &#160; &#160; &#160; <span>Leetcode : </span>
                 </a>
-                <span>Solved 100+ problems</span>
+                <span>Solved 350+ problems</span>
               </div>
               <div>
                 <a
@@ -112,7 +112,7 @@ function Resume() {
                   </h1>
                   &#160; &#160; &#160; <span>Codechef : </span>
                 </a>
-                <span>Solved 100+ problems</span>
+                <span>Solved 150+ problems</span>
               </div>
               <div>
                 <a
